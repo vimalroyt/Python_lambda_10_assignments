@@ -1,0 +1,1 @@
+# Python_lambda_10_assignments
